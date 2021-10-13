@@ -1,0 +1,4 @@
+[submodule "Borruso/14.0-mig-fiscal-epos-print"]
+	path = Borruso/14.0-mig-fiscal-epos-print
+	url = git@github.com:Borruso/14.0-mig-fiscal-epos-print.git
+	branch = MIG-14.0-fiscal_epos_print
